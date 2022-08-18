@@ -1,0 +1,12 @@
+.userProfilePic{
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.myCrd{
+    height: 10rem;
+    position: relative;
+}
